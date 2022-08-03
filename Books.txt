@@ -1,0 +1,6 @@
+1,Hary porter,JK Rowling,33,2
+2,Start with why,Simon Sinek,20,1.5
+3,Programming With Python,John Smith,15,1.5
+4,War and Peace,Leo Tolstoy,0,2
+5,The Great Gatsby,F.Scott Fitzegerald,11,2.5
+6,Hamlet,William Shakespeare,13,1.5

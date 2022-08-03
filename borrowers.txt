@@ -1,0 +1,3 @@
+1, Name:Ram Sharma, BorrowerID:1, Book:Hary porter, BookID:1, Price($):2, Status:Returned, ISD_Date:2021-08-06, RTN_Date:2021-09-09
+2, Name:Shyam Basnet, BorrowerID:22, Book:Start with why, BookID:2, Price($):1.5, Status:Returned, ISD_Date:2021-08-20, RTN_Date:2021-09-08
+3, Name:James Sharma, BorrowerID:11, Book:Hary porter, BookID:1, Price($):2, Status:Returned, ISD_Date:2021-08-25, RTN_Date:2021-09-07
